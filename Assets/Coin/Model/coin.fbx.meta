@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9cb3ce5e73e903149ba046adc497ca03
+guid: 92f937f9fd8b73a40aca1700935f1c48
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,23 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: chibi.body
-    second: {fileID: 2100000, guid: 697a74315b904fb42a5890182636bbf5, type: 2}
+      name: coin-texture__coin-texture_jpg
+    second: {fileID: 2100000, guid: 5ea3cc0cc01dc6f4b800e6639e42af02, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: chibi.pants
-    second: {fileID: 2100000, guid: 4ab2b491d6e0a7349b214a2ea670485c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: chibi.shoes
-    second: {fileID: 2100000, guid: 3aaaee73daf3ce24cb2a77040f9e02e2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: chibi.tshirt
-    second: {fileID: 2100000, guid: 5b11c9f149c40af4fba49edc136be5fa, type: 2}
+      name: gold__gold_jpg
+    second: {fileID: 2100000, guid: 815ca70fa570b5b44b104b228952bf92, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -51,7 +41,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -67,7 +57,7 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    keepQuads: 1
+    keepQuads: 0
     weldVertices: 1
     bakeAxisConversion: 0
     preserveHierarchy: 0
@@ -86,7 +76,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
