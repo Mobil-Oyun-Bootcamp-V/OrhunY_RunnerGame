@@ -15,8 +15,6 @@ namespace Chibi.Scripts
             if (GameManager._currentState != GameManager.States.UI)
             {
                 _rb.velocity = Vector3.forward * (speed * Time.fixedDeltaTime);
-                
-                
             }
         }
     }

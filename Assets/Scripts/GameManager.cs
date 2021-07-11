@@ -17,8 +17,6 @@ public class GameManager : MonoBehaviour
     {
         player.GetComponent<Animator>().SetTrigger("StartRun");
         StartCoroutine(CameraSwitch());
-        index++;
-        ChooseLevel(index);
     }
 
     public void ChooseLevel(int ind)
